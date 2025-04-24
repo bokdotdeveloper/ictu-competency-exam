@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+body .input, body .btn {
+  border: 1px solid lightgray;
+  padding: 0.5rem;
+}
+body .btn {
+  color: white;
+}
+body .primary {
+  background-color: rgb(0, 0, 255);
+}
+body .danger {
+  background-color: rgb(255, 0, 0);
+}
+body .read {
+  padding: 1rem;
+}
+body .read table {
+  border: 1px solid lightgray;
+}
+body .read table td, body .read table th {
+  padding: 1rem;
+}/*# sourceMappingURL=style.css.map */

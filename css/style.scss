@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+
+  .input, .btn{
+    border: 1px solid lightgray;
+    padding: .5rem;
+  }
+  .btn {
+    color: white;
+  }
+
+  .primary{
+    background-color: rgb(0, 0, 255);
+  }
+  .danger{
+    background-color: rgb(255, 0, 0);
+  }
+
+  .read{
+    padding: 1rem;
+    table{
+      border: 1px solid lightgray;
+
+      td, th{
+        padding: 1rem;
+      }
+    }
+  }
+
+  
+
+}
